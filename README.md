@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Alicia Reis
 
-<!--
-**AliciaRReis/AliciaRReis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e formada em **Recursos Humanos**. Atualmente, estou desenvolvendo habilidades em programação e HTML, com grande interesse em me especializar na área de **administração de banco de dados**.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📚 Apaixonada por tecnologia e aprendizado contínuo
+- 🎯 Buscando migrar para a área de administração de banco de dados
+- 🧑‍💻 Em constante evolução nas habilidades de programação
+
+## 💡 Habilidades
+
+- HTML (básico)
+- Programação (básico)
+- Comunicação interpessoal (Recursos Humanos)
+
+## 🎓 Formação
+
+- Análise e Desenvolvimento de Sistemas (em andamento)
+- Recursos Humanos (formada)
+
+## 🌐 Vamos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/alicia-reis-793a33140)
+
+---
+
+*Busco oportunidades para crescer profissionalmente e contribuir com equipes que valorizam o conhecimento e o desenvolvimento humano e tecnológico.*
+
+
 -->
