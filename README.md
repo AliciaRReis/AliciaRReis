@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Alicia Reis
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e formada em **Recursos Humanos**. Atualmente, estou desenvolvendo habilidades em programação e HTML, com grande interesse em me especializar na área de **administração de banco de dados**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e formada em **Recursos Humanos**. Atualmente, estou desenvolvendo habilidades em programação, com grande interesse em me especializar na área de **administração de banco de dados**.
 
 ## 🚀 Sobre Mim
 
@@ -10,7 +10,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e formada em **Recur
 
 ## 💡 Habilidades
 
-- HTML (básico)
+
 - Programação (básico)
 - Comunicação interpessoal (Recursos Humanos)
 
